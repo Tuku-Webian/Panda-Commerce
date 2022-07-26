@@ -1,0 +1,26 @@
+.panda-bg-info{
+    background-color: rgb(255, 252, 216);
+}
+.bg-nav{
+    background-color: rgb(223, 223, 223);
+}
+.bg-subs{
+    background-color: rgb(223, 223, 223);
+}
+.bg-headphone{
+    background-color: rgb(255, 234, 234);
+}
+.bg-tv{
+    background-color: rgb(255, 255, 232);
+}
+.bg-xbox{
+    background-color: rgb(230, 230, 255);
+}
+.btn-bannar{
+    margin-top: 1.2rem;
+    background: linear-gradient( rgb(101, 196, 95), rgb(43, 119, 47));
+}
+.see-all{
+    color: rgb(201, 171, 4);
+    text-decoration: none;
+}
